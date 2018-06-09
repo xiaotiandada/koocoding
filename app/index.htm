@@ -1,0 +1,130 @@
+﻿<!DOCTYPE html>
+<html lang="zh-hans">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="full-screen" content="true">
+    <meta name="screen-orientation" content="portrait">
+    <meta name="x5-fullscreen" content="true">
+    <meta name="360-fullscreen" content="true">
+    <meta name="csrf-token" content="xLKMuiKbtbx3Vmr0NhyQ655idgvZdrBeioSGbD5s">
+
+    <link rel="icon" href="favicon.ico" mce_href="/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" mce_href="/favicon.ico" type="image/x-icon">
+    <title>酷客编程</title>
+
+    <link rel="stylesheet" href="css\app.css">
+
+    <script type="text/javascript">
+        (function() {
+            // deicePixelRatio ：设备像素
+            var scale = 1 / devicePixelRatio;
+
+            //设置meta 压缩界面 模拟设备的高分辨率
+            document.querySelector('meta[name="viewport"]').setAttribute('content', 'initial-scale=' + scale + ', maximum-scale=' + scale + ', minimum-scale=' + scale + ', user-scalable=no');
+
+//            //debounce 为节流函数，自己实现。或者引入underscoure即可。
+//            var reSize = _.debounce(function() {
+//                var deviceWidth = document.documentElement.clientWidth > 1300 ? 1300 : document.documentElement.clientWidth;
+//                //按照640像素下字体为100px的标准来，得到一个字体缩放比例值 6.4
+//                document.documentElement.style.fontSize = (deviceWidth / 6.4) + 'px';
+//            }, 50);
+//            window.onresize = reSize;
+
+            window.onresize = function(){
+                var deviceWidth = document.documentElement.clientWidth > 1200 ? 1200 : document.documentElement.clientWidth;
+                document.documentElement.style.fontSize = (deviceWidth / 47) + 'px';
+//                console.log('deviceWidth:' + deviceWidth);
+//                console.log('fontSize:' + (deviceWidth / 47) + 'px');
+            };
+            window.onresize();
+
+//            document.addEventListener('touchmove', function (e) { e.preventDefault(); }, false);
+
+        })();
+    </script>
+
+</head>
+
+<body>
+    <div class="home-container">
+        
+            <div class="header">
+                <div class="head-figure">
+                    <img src="http://assets.koocoding.com/home/images/head-figure.jpg">
+                    <div class="logo">
+                        <img src="http://assets.koocoding.com/home/images/logo.png">
+                    </div>
+                    <div class="info">
+                        <div class="title">酷客编程</div>
+                        <div class="subtitle">改变世界，由此开始</div>
+                        <div class="slogan">编程从未如此简单</div>
+                        <div class="play" onclick="window.location.href='/projects'">免费体验</div>
+                    </div>
+                </div>
+            </div>
+        <div class="home-content">
+            <div class="home-content-container">
+                <div class="body">
+                    <div class="row">
+                        <div class="figure">
+                            <img src="http://assets.koocoding.com/home/images/eg1.jpg">
+                        </div>
+                        <div class="desc">
+                            <img src="http://assets.koocoding.com/home/images/num1.jpg">
+                            <div class="title">为什么要学习编程？</div>
+                            <div class="text">编程正以前所未有的方式和速度影响我们的世界，让孩子了解和掌握的一定的编程知识是迎接未来挑战最有效的方式之一。</div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="desc">
+                            <img src="http://assets.koocoding.com/home/images/num2.jpg">
+                            <div class="title">可视化编程体验</div>
+                            <div class="text">创新的模块化编程环境，体验式互动学习方法，帮助初学者快速建立学习兴趣，在娱乐中获取知识，随时开始创作。</div>
+                        </div>
+                        <div class="figure">
+                            <img src="http://assets.koocoding.com/home/images/eg2.jpg">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="figure">
+                            <img src="http://assets.koocoding.com/home/images/eg3.jpg">
+                        </div>
+                        <div class="desc">
+                            <img src="http://assets.koocoding.com/home/images/num3.jpg">
+                            <div class="title">科学完善的教学体系</div>
+                            <div class="text">基于美国计算机教师协会(CSTA)标准构建的自学习课程体系，鼓励青少年在娱乐中探索计算机科学知识，掌握思考与创造能力。</div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="desc">
+                            <img src="http://assets.koocoding.com/home/images/num4.jpg">
+                            <div class="title">来自世界的声音</div>
+                            <div class="text nowrap">如果你愿意工作，努力学习，未来将由你们创造。</div>
+                            <div class="text right m-t">—— 奥巴马 2013年“编程一小时”演讲</div>
+                        </div>
+                        <div class="figure">
+                            <img src="http://assets.koocoding.com/home/images/eg4.jpg">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="footer">
+                    <div class="footer-figure">
+                        <img src="http://assets.koocoding.com/home/images/footer-figure.jpg">
+                        <div class="info">
+                            <div class="play" onclick="window.location.href='/projects'">免费体验</div>
+                            <div class="text">* 推广期间，全部课程限时免费</div>
+                        </div>
+                    </div>
+                    <div class="footer-text">2018 酷客编程</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

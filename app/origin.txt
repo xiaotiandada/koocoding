@@ -1,0 +1,28 @@
+Uri: http://www.koocoding.com/
+File Name: F:\koocoding\www.koocoding.com\index.htm
+Content Type: text/html
+
+Uri: http://www.koocoding.com/favicon.ico
+File Name: F:\koocoding\www.koocoding.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://www.koocoding.com/css/app.css
+File Name: F:\koocoding\www.koocoding.com\css\app.css
+Content Type: text/css
+
+Uri: http://www.koocoding.com/images/ide/trashcan.png
+File Name: F:\koocoding\www.koocoding.com\images\ide\trashcan.png
+Content Type: image/png
+
+Uri: http://www.koocoding.com/images/ide/trashcan_open.png
+File Name: F:\koocoding\www.koocoding.com\images\ide\trashcan_open.png
+Content Type: image/png
+
+Uri: http://assets.koocoding.com/ide/images/gear1.svg
+File Name: F:\koocoding\www.koocoding.com\ide\images\gear1.svg
+Content Type: image/svg+xml
+
+Uri: http://assets.koocoding.com/ide/images/gear2.svg
+File Name: F:\koocoding\www.koocoding.com\ide\images\gear2.svg
+Content Type: image/svg+xml
+
