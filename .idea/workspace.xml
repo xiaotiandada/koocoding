@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ffc8456-7965-49db-b410-d03c7a9afec7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/js/animate.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/animate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,11 +43,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="animate.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="animate.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/animate.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="86" column="131" selection-start-line="86" selection-start-column="131" selection-end-line="86" selection-end-column="131" />
+            <state relative-caret-position="306">
+              <caret line="90" column="23" selection-start-line="90" selection-start-column="19" selection-end-line="90" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="442">
+                <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -85,6 +97,7 @@
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/css/anime.css" />
         <option value="$PROJECT_DIR$/app/js/animate.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -102,7 +115,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="61" />
     <option name="y" value="52" />
     <option name="width" value="1082" />
@@ -119,23 +132,6 @@
             <path>
               <item name="koocoding" type="b2602c69:ProjectViewProjectNode" />
               <item name="koocoding" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="koocoding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="koocoding" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="koocoding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="koocoding" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="koocoding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="koocoding" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -178,25 +174,25 @@
       <option name="presentableId" value="Default" />
       <updated>1528713786384</updated>
       <workItem from="1528713790636" duration="1359000" />
-      <workItem from="1528717655182" duration="11466000" />
+      <workItem from="1528717655182" duration="12417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12825000" />
+    <option name="totallyTimeSpent" value="13776000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="61" y="52" width="1082" height="1106" extended-state="0" />
+    <frame x="35" y="25" width="2525" height="1415" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22808671" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09664537" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24170125" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.18303221" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -282,8 +278,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/animate.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="86" column="131" selection-start-line="86" selection-start-column="131" selection-end-line="86" selection-end-column="131" />
+        <state relative-caret-position="306">
+          <caret line="90" column="23" selection-start-line="90" selection-start-column="19" selection-end-line="90" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="442">
+            <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
