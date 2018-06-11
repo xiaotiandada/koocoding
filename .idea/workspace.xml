@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ffc8456-7965-49db-b410-d03c7a9afec7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/js/animate.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/css/anime.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/anime.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,88 +18,62 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/gulpfile.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
-                  <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="anime.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/css/anime.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="907">
-                  <caret line="159" column="49" selection-start-line="159" selection-start-column="49" selection-end-line="159" selection-end-column="49" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="196">
-                  <caret line="59" column="36" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="36" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/package.json">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="anime.css" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/css/anime.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="822">
-                  <caret line="146" column="31" lean-forward="true" selection-start-line="146" selection-start-column="31" selection-end-line="146" selection-end-column="31" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="animate.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/css/animate.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-2414">
-                  <caret line="883" column="5" lean-forward="true" selection-start-line="883" selection-start-column="5" selection-end-line="883" selection-end-column="5" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="wegame.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/css/wegame.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="16048">
-                  <caret line="992" column="14" lean-forward="true" selection-start-line="992" selection-start-column="14" selection-end-line="992" selection-end-column="14" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="anime.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/css/anime.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="822">
+              <caret line="170" column="5" selection-start-line="170" selection-start-column="5" selection-end-line="170" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="74" column="42" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animate.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/js/animate.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>slideUp</find>
       <find>bounceIn</find>
+      <find>slideUp</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -114,6 +87,7 @@
         <option value="$PROJECT_DIR$/app/css/animate.css" />
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/css/anime.css" />
+        <option value="$PROJECT_DIR$/app/js/animate.js" />
       </list>
     </option>
   </component>
@@ -131,11 +105,11 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="35" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="1297" />
     <option name="y" value="25" />
-    <option name="width" value="856" />
-    <option name="height" value="1106" />
+    <option name="width" value="1263" />
+    <option name="height" value="1415" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -160,6 +134,12 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="koocoding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="koocoding" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -172,6 +152,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -196,24 +181,25 @@
       <option name="presentableId" value="Default" />
       <updated>1528713786384</updated>
       <workItem from="1528713790636" duration="1359000" />
-      <workItem from="1528717655182" duration="4329000" />
+      <workItem from="1528717655182" duration="7411000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5688000" />
+    <option name="totallyTimeSpent" value="8770000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="35" y="25" width="2525" height="1415" extended-state="7" />
+    <frame x="1297" y="25" width="1263" height="1415" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09664537" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19484702" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.18303221" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.18303221" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -266,19 +252,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/css/wegame.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16048">
-          <caret line="992" column="14" lean-forward="true" selection-start-line="992" selection-start-column="14" selection-end-line="992" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="59" column="36" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="36" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/index-wcopy.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/css/animate.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -287,10 +262,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/wegame.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13906">
+          <caret line="992" column="14" lean-forward="true" selection-start-line="992" selection-start-column="14" selection-end-line="992" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/css/anime.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="822">
-          <caret line="146" column="31" lean-forward="true" selection-start-line="146" selection-start-column="31" selection-end-line="146" selection-end-column="31" />
+          <caret line="170" column="5" selection-start-line="170" selection-start-column="5" selection-end-line="170" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="74" column="42" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/animate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
         </state>
       </provider>
     </entry>
