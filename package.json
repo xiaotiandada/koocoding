@@ -1,0 +1,19 @@
+{
+  "name": "koocoding",
+  "version": "1.0.0",
+  "description": "酷客编程",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaotiandada/koocoding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaotiandada/koocoding/issues"
+  },
+  "homepage": "https://github.com/xiaotiandada/koocoding#readme"
+}
